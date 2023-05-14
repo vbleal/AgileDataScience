@@ -2,6 +2,18 @@
 Data Science, Methodologies, Agile
 
 
+## Descripción
+
+
+## Modelos
+
+
+## Código
+
+
+## Notebooks
+
+
 
 
 
