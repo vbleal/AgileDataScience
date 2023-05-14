@@ -1,5 +1,5 @@
 # Metodologías de Gestión y Diseño de Proyectos Big Data
-Data Science, Methodologies, Agile
+Data Science, Project Management, Agile Methodologies
 
 
 ## Descripción
