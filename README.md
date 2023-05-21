@@ -26,10 +26,22 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 
 
-## Modelos
+## Inputs
 
 
-## Código
+## Código / Notebooks
+
+
+
+## Outputs
+
+
+
+## Reporte / Informe
+
+
+
+
 
 
 ## Notebooks
