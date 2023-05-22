@@ -17,6 +17,8 @@ Para gestionar este proyecto, se ha tomado como base la **Metodología CRISP-DM*
 5)	Evaluación
 6)	Implementación
 
+Adicionalmente, se han incorporado elementos característicos de la Metodología Ágil **SCRUM**, mediante el uso de la tecnología **Azure Boards**.
+
 Las autoridades de una Facultad desean obtener conocimiento a partir de los datos disponibles de los alumnos inscritos durante el ciclo lectivo 2020, principalmente en lo que respecta a su situación como estudiante y su grado de avance en la carrera a la que se hayan inscrito. La situación de cada estudiante podrá ser:
 - **Activo**: Continúa cursando la carrera.
 
