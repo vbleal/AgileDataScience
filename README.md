@@ -24,6 +24,13 @@ Las autoridades de una Facultad desean obtener conocimiento a partir de los dato
 
 El ***objetivo*** final que se persigue es el de poder predecir con un margen de confianza considerable la situación de los nuevos alumnos inscritos para el periodo 2022.
 
+## 📑 Estructura de Ficheros
+
+![](https://raw.githubusercontent.com/vbleal/13MBID/main/Imag/Dir_structure.jpg)
+
+
+
+
 
 
 ## Inputs
