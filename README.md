@@ -4,7 +4,7 @@
 >💡 *Any Scrum without working product at the end of a Sprint, is a failed Scrum.*
 ―Jeff Sutherland, Scrum Co-Founder
 
-## Descripción
+## 📃 Descripción
 
 Las autoridades de una Facultad desean obtener conocimiento a partir de los datos disponibles de los alumnos inscritos durante el ciclo lectivo 2020, siendo el reto principal poder predecir con un margen de confianza considerable la situación de los nuevos alumnos inscritos para el periodo 2022.
 
