@@ -28,7 +28,7 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 ## 📑 Estructura de Ficheros
 
-[ReadMe](https://raw.githubusercontent.com/vbleal/13MBID/main/README.txt)
+[ReadMe.txt](https://raw.githubusercontent.com/vbleal/13MBID/main/README.txt)
 
 ![](https://raw.githubusercontent.com/vbleal/13MBID/main/Imag/Dir_structure.jpg)
 
