@@ -123,6 +123,9 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 [datos_nuevos_calidad_gbc.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/datos_nuevos_calidad_gbc.csv)
 
+[datos_nuevos_calidad_mlp.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/datos_nuevos_calidad_mlp.csv)
+
+
 
 
 
@@ -137,12 +140,6 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 
 
-
-
-
-
-
-[datos_nuevos_calidad_mlp.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/datos_nuevos_calidad_mlp.csv)
 
 
 
