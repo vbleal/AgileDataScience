@@ -30,7 +30,7 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 [ReadMe.txt](https://raw.githubusercontent.com/vbleal/13MBID/main/README.txt)
 
-![](https://raw.githubusercontent.com/vbleal/13MBID/main/Imag/Dir_structure.jpg)
+![](https://raw.githubusercontent.com/vbleal/13MBID/main/Imag/Estructura_Ficheros.jpg)
 
 
 
