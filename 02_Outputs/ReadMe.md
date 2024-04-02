@@ -3,11 +3,26 @@
 
 ## Preparación de Datos
 
+<details>
+    <summary> Expandir </summary>
+
+
 [datos_completos.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/datos_completos.csv)
+
+
+</details>
+
+----------------
+
+
 
 
 
 ## Modelado
+
+<details>
+    <summary> Expandir </summary>
+
 
 ### Adaptación
 
@@ -21,8 +36,17 @@
 
 
 
+</details>
+
+----------------
+
+
 
 ## Despliegue
+
+<details>
+    <summary> Expandir </summary>
+
 
 ### Adaptaciones
 
@@ -45,6 +69,9 @@
 
 
 
+</details>
+
+----------------
 
 
 
