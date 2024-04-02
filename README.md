@@ -40,23 +40,23 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 ### Inputs 
 
-[datos_inscripciones_mod.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/00_Inputs/datos_inscripciones_mod.csv)
+[datos_inscripciones_mod.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/00_Inputs/datos_inscripciones_mod.csv)
 
-[datos_cursado_mod.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/00_Inputs/datos_cursado_mod.csv)
+[datos_cursado_mod.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/00_Inputs/datos_cursado_mod.csv)
 
-[datos_academico_mod.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/00_Inputs/datos_academicos_mod.csv)
+[datos_academico_mod.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/00_Inputs/datos_academicos_mod.csv)
 
-[datos_nuevos_22.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/00_Inputs/datos_nuevos_22.csv)
+[datos_nuevos_22.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/00_Inputs/datos_nuevos_22.csv)
 
 
 ### Datasets Originales
 
 
-[datos_inscripciones.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/00_Inputs/datos_inscripciones.csv)
+[datos_inscripciones.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/00_Inputs/datos_inscripciones.csv)
 
-[datos_cursado.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/00_Inputs/datos_cursado.csv)
+[datos_cursado.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/00_Inputs/datos_cursado.csv)
 
-[datos_academicos.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/00_Inputs/datos_academicos.csv)
+[datos_academicos.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/00_Inputs/datos_academicos.csv)
 
 
 
@@ -67,7 +67,7 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 ## ㊙️ Código
 
-### [Python](https://raw.githubusercontent.com/vbleal/13MBID/main/01_Code/13MBID_10_A-AG3.py)
+### [Python](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/01_Code/AgileDataScience_10_A-AG3.py)
 
 ### [Google Colab](https://drive.google.com/file/d/1yok2vo9DzRGicmsUiRqF0ln9J1k_NtWw/view?usp=share_link)
 
@@ -85,7 +85,7 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 ### Preparación de Datos
 
-[datos_completos.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/datos_completos.csv)
+[datos_completos.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/02_Outputs/datos_completos.csv)
 
 
 
@@ -93,13 +93,13 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 #### Adaptación
 
-[datos_completos_filtrados.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/datos_completos_filtrados.csv)
+[datos_completos_filtrados.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/02_Outputs/datos_completos_filtrados.csv)
 
 #### Construcción
 
-[data_procesados.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/data_procesados.csv)
+[data_procesados.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/02_Outputs/data_procesados.csv)
 
-[data_dummies.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/data_dummies.csv)
+[data_dummies.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/02_Outputs/data_dummies.csv)
 
 
 
@@ -108,22 +108,22 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 #### Adaptaciones
 
-[nuevos_codif.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/nuevos_codif.csv)
+[nuevos_codif.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/02_Outputs/nuevos_codif.csv)
 
-[nuevos_codif_matched.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/nuevos_codif_matched.csv)
+[nuevos_codif_matched.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/02_Outputs/nuevos_codif_matched.csv)
 
-[data_despliegue.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/data_despliegue.csv)
+[data_despliegue.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/02_Outputs/data_despliegue.csv)
 
-[nuevos_codif_despiegue.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/nuevos_codif_despliegue.csv)
+[nuevos_codif_despiegue.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/02_Outputs/nuevos_codif_despliegue.csv)
 
 
 #### Predicciones
 
-[datos_nuevos_calidad_rndf.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/datos_nuevos_calidad_rndf.csv)
+[datos_nuevos_calidad_rndf.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/02_Outputs/datos_nuevos_calidad_rndf.csv)
 
-[datos_nuevos_calidad_gbc.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/datos_nuevos_calidad_gbc.csv)
+[datos_nuevos_calidad_gbc.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/02_Outputs/datos_nuevos_calidad_gbc.csv)
 
-[datos_nuevos_calidad_mlp.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/02_Outputs/datos_nuevos_calidad_mlp.csv)
+[datos_nuevos_calidad_mlp.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/02_Outputs/datos_nuevos_calidad_mlp.csv)
 
 
 
@@ -135,7 +135,7 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 ## 📊 Reporte / Informe
 
-## [Informe](https://github.com/vbleal/13MBID/blob/main/03_Report/13MBID_10_A-AG3%20Informe.pdf)
+## [Informe](https://github.com/vbleal/AgileDataScience/blob/main/03_Report/AgileDataScience_10_A-AG3%20Informe.pdf)
 
 
 
