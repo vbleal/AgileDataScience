@@ -6,6 +6,9 @@
 
 ## 📃 Descripción
 
+<details>
+    <summary> Expandir </summary>
+
 Las autoridades de una Facultad desean obtener conocimiento a partir de los datos disponibles de los alumnos inscritos durante el ciclo lectivo 2020, siendo el reto principal poder predecir con un margen de confianza considerable la situación de los nuevos alumnos inscritos para el periodo 2022.
 
 Para gestionar este proyecto, se ha tomado como base la ***Metodología CRISP-DM*** que consta de **6 fases**:
@@ -26,17 +29,31 @@ Las autoridades de una Facultad desean obtener conocimiento a partir de los dato
 
 El ***objetivo*** final que se persigue es el de poder predecir con un margen de confianza considerable la situación de los nuevos alumnos inscritos para el periodo 2022.
 
+</details>
+
+----------------
+
+
+
 ## 📑 Estructura de Ficheros
+
+<details>
+    <summary> Expandir </summary>
 
 [ReadMe.txt]()
 
 ![]()
 
+</details>
 
+----------------
 
 
 
 ## 📥 Inputs
+
+<details>
+    <summary> Expandir </summary>
 
 ### Inputs 
 
@@ -59,7 +76,9 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 [datos_academicos.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/00_Inputs/datos_academicos.csv)
 
 
+</details>
 
+----------------
 
 
 
@@ -67,12 +86,17 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 ## ㊙️ Código
 
+<details>
+    <summary> Expandir </summary>
+
 ### [Python](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/01_Code/AgileDataScience_10_A-AG3.py)
 
 ### [Google Colab](https://drive.google.com/file/d/1yok2vo9DzRGicmsUiRqF0ln9J1k_NtWw/view?usp=share_link)
 
 
+</details>
 
+----------------
 
 
 
@@ -81,6 +105,9 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 
 ## 📲 Outputs
+
+<details>
+    <summary> Expandir </summary>
 
 
 ### Preparación de Datos
@@ -126,7 +153,9 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 [datos_nuevos_calidad_mlp.csv](https://raw.githubusercontent.com/vbleal/AgileDataScience/main/02_Outputs/datos_nuevos_calidad_mlp.csv)
 
 
+</details>
 
+----------------
 
 
 
@@ -135,10 +164,15 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 ## 📊 Reporte / Informe
 
-## [Informe](https://github.com/vbleal/AgileDataScience/blob/main/03_Report/AgileDataScience_10_A-AG3%20Informe.pdf)
+<details>
+    <summary> Expandir </summary>
+
+## [Informe]()
 
 
+</details>
 
+----------------
 
 
 
