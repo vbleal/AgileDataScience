@@ -1,6 +1,10 @@
 # 📥 Inputs
 
-### Inputs 
+## Inputs 
+
+<details>
+    <summary> Expandir </summary>
+
 
 [datos_inscripciones_mod.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/00_Inputs/datos_inscripciones_mod.csv)
 
@@ -10,8 +14,15 @@
 
 [datos_nuevos_22.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/00_Inputs/datos_nuevos_22.csv)
 
+</details>
 
-### Datasets Originales
+----------------
+
+
+## Datasets Originales
+
+<details>
+    <summary> Expandir </summary>
 
 
 [datos_inscripciones.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/00_Inputs/datos_inscripciones.csv)
@@ -20,7 +31,9 @@
 
 [datos_academicos.csv](https://raw.githubusercontent.com/vbleal/13MBID/main/00_Inputs/datos_academicos.csv)
 
+</details>
 
+----------------
 
 
 
