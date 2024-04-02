@@ -1,4 +1,4 @@
-# Metodologías de Gestión y Diseño de Proyectos Big Data
+# Metodologías Ágiles en Proyectos de Data Science y Big Data
 
 
 >💡 *Any Scrum without working product at the end of a Sprint, is a failed Scrum.*
@@ -28,9 +28,9 @@ El ***objetivo*** final que se persigue es el de poder predecir con un margen de
 
 ## 📑 Estructura de Ficheros
 
-[ReadMe.txt](https://raw.githubusercontent.com/vbleal/13MBID/main/README.txt)
+[ReadMe.txt]()
 
-![](https://raw.githubusercontent.com/vbleal/13MBID/main/Imag/Estructura_Ficheros.jpg)
+![]()
 
 
 
